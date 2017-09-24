@@ -1,2 +1,3 @@
 # hello-world
-just an exercise
+this is just an exercise!
+
