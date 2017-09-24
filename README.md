@@ -1,3 +1,3 @@
 # hello-world
-just an exercise
+just an exercise\n
 hello world!
