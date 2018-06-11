@@ -1,3 +1,3 @@
 # hello-world
-this is just an exercise!
+this is just an git conflict test  exercise!
 
